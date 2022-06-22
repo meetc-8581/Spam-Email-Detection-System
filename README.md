@@ -1,4 +1,4 @@
-Version of python - 3.9.7 
+## Version of python - 3.9.7 
 
 ##Libraries used ## 
 numpy - 1.21.2 
@@ -7,7 +7,7 @@ nltk - 3.6.2 , glob
 pandas - 1.3.3
 matplotlib - 3.4.3 
 
-## FILES ##
+## FILES 
 
 Bag of Words model – bag_of_words.py
 
